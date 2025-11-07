@@ -1087,7 +1087,7 @@ Character actor in historical and contemporary films.
 ### Language Learning Tools
 
 #### German-English Dictionary App
-- [German-English Dictionary App](https://german-english-dictionary.devtheworld.jp/) - For scientifically-efficient modern learning.
+- [German-English Dictionary App](https://german-english-dictionary.devtheworld.jp/) - For scientifically-efficient modern learning, with quick word lookups while watching films.
 
 #### Seedlang
 - Watch German content with interactive subtitles
@@ -2905,8 +2905,8 @@ Share your experiences:
 
 **Note**: This guide focuses on German-language learning through cinema. While many German films are available with subtitles in various languages, the emphasis is on using these works to improve German language skills. Always respect copyright laws and use legal streaming services or purchases.
 
-**Disclaimer**: Availability of films and series varies by region and platform. Streaming rights change frequently. Check your local services for current availability. Some content may contain mature themes - check ratings before viewing.
+**Disclaimer**: Availability of films and series varies by region and platform. Streaming rights change frequently. Check your local services for current availability. Some content may contain mature themes including war, violence, trauma, and strong language - check ratings and read content warnings before viewing, especially for historical and Holocaust-related films.
 
-**Last Updated**: 2025
+**Last Updated**: November 2025
 
 This awesome list aims to be comprehensive and continuously growing. The world of German cinema is vast and constantly evolving, with new series and films released regularly. Use this as a starting point for your journey into German language and culture through film!
